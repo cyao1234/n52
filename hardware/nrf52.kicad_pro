@@ -708,6 +708,18 @@
           "label": "Sim.Type",
           "name": "Sim.Type",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "FT Rotation Offset",
+          "name": "FT Rotation Offset",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Position Offset",
+          "name": "Position Offset",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -758,7 +770,7 @@
         "uuid": "7c3fbfcb-953e-4e2a-9a2f-c270f824b4f7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Q3-4,R8-11,JP1-2,D6-7,#PWR60-61,#PWR63-64",
     "variants": [
       {
         "name": "LCSC Part #"
