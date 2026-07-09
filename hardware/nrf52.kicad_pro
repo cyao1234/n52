@@ -770,7 +770,7 @@
         "uuid": "7c3fbfcb-953e-4e2a-9a2f-c270f824b4f7"
       }
     ],
-    "used_designators": "Q3-4,R8-11,JP1-2,D6-7,#PWR60-61,#PWR63-64",
+    "used_designators": "#PWR60-61,#PWR63-64,D6-7,JP1-2,R8-11,Q3-4",
     "variants": [
       {
         "name": "LCSC Part #"
